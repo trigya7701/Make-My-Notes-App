@@ -1,3 +1,16 @@
-# Make-My-Notes-App
-Developed a responsive Notes App with a feature of creating and removing notes based on user choice.
- Used languages such as HTML,Bootstrap,Javascript.
+
+# Make My Notes App
+
+Make My Notes App is a note taking app where you can create as well remove notes.
+
+## Tech Stack
+
+**Client:** HTML,CSS,BOOTSTRAP,JS
+
+## SCreenshots
+
+
+
+  
+
+  
